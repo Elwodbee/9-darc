@@ -1,0 +1,62 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+    font-size: 1.1em;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+select, input, button {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+
+button {
+    margin-top: 15px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+}
+
+#result {
+    margin-top: 20px;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+body{
+    background-color: blueviolet;
+}
+.salom{
+    text-align: center;
+    font-size: 15px;
+}
+.salom2{
+    text-align: center;
+    font-size: 15px;
+}
+.salom3{
+    text-align: center;
+    font-size: 15px;
+}
